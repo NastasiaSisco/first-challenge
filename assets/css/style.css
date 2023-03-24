@@ -59,7 +59,8 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-/* how get photo correct? It's huge! And I can't seem to constrain it*/
+/* how get photo correct? It's missing when not commented out*/
+    /* background-image: url("./assets/digital-marketing-meeting.jpg"); */
     background-size: cover;
     background-position: center;
 }
